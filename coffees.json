@@ -94,5 +94,21 @@
     "description": "低酸度、厚實口感與深色香料氣息。",
     "brew": "建議水溫 87–90°C，粉水比 1:14。",
     "example": true
+  },
+  {
+    "id": "ethiopia-guji-natural",
+    "name": "衣索比亞・古吉（日曬）",
+    "origin": "衣索比亞",
+    "region": "古吉",
+    "process": "日曬",
+    "roast": "淺焙",
+    "notes": [
+      "藍莓",
+      "草莓",
+      "花香"
+    ],
+    "description": "以莓果香氣與柔和花香為靈感的示範風味檔案；實際風味依批次而異。",
+    "brew": "示範沖煮建議：水溫 90–92°C，粉水比 1:16；可依實際豆況調整。",
+    "example": true
   }
 ]
