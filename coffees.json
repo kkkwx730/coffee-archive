@@ -18,7 +18,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-house",
@@ -39,7 +40,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-pike",
@@ -60,7 +62,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-guatemala",
@@ -81,7 +84,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-colombia",
@@ -98,11 +102,12 @@
     "description": "平衡、核果味的風味印象。",
     "story": "以哥倫比亞咖啡的均衡酸質與甜感為主題，適合作為認識拉丁美洲單一產區的起點。",
     "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
-    "sourceLabel": "你提供的 PPK 截圖",
-    "sourceUrl": "",
+    "sourceLabel": "星巴克台灣官網",
+    "sourceUrl": "https://www.starbucks.com.tw/coffee/our-coffees/product.jspx?id=154",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-kenya",
@@ -123,7 +128,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-sumatra",
@@ -144,7 +150,8 @@
     "sourceUrl": "https://www.starbucks.com.tw/coffee/our-coffees/product.jspx?id=152",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-espresso",
@@ -165,7 +172,8 @@
     "sourceUrl": "https://www.starbucks.com.tw/passport/coffeebeans?product=36",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-verona",
@@ -186,7 +194,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-italian",
@@ -207,7 +216,8 @@
     "sourceUrl": "",
     "year": "",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-kati-2026",
@@ -229,7 +239,8 @@
     "sourceUrl": "",
     "year": "2026 夏季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-kenya-single-2026",
@@ -250,7 +261,8 @@
     "sourceUrl": "",
     "year": "2026 夏季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-sejati-2026",
@@ -271,7 +283,8 @@
     "sourceUrl": "",
     "year": "2026 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-1971-2026",
@@ -292,7 +305,8 @@
     "sourceUrl": "",
     "year": "2026 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-autumn-2026",
@@ -313,7 +327,8 @@
     "sourceUrl": "",
     "year": "2026 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-2026",
@@ -334,7 +349,8 @@
     "sourceUrl": "",
     "year": "2026 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-espresso-2026",
@@ -355,7 +371,8 @@
     "sourceUrl": "",
     "year": "2026 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-blonde-2026",
@@ -376,7 +393,8 @@
     "sourceUrl": "",
     "year": "2026 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-2025",
@@ -397,7 +415,8 @@
     "sourceUrl": "",
     "year": "2025 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-espresso-2025",
@@ -418,7 +437,8 @@
     "sourceUrl": "",
     "year": "2025 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-christmas-blonde-2025",
@@ -439,7 +459,8 @@
     "sourceUrl": "",
     "year": "2025 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-brazil-sao-joao",
@@ -460,7 +481,8 @@
     "sourceUrl": "",
     "year": "2026 夏季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-rwanda-abakundakawa",
@@ -481,7 +503,8 @@
     "sourceUrl": "",
     "year": "2026 夏季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-tanzania-mondul",
@@ -502,7 +525,8 @@
     "sourceUrl": "",
     "year": "2026 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-uganda-elgon",
@@ -523,7 +547,8 @@
     "sourceUrl": "",
     "year": "2026 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-christmas-2026",
@@ -544,7 +569,8 @@
     "sourceUrl": "",
     "year": "2026 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-kenya-endebess",
@@ -565,7 +591,8 @@
     "sourceUrl": "",
     "year": "2026 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-christmas-2025",
@@ -587,7 +614,8 @@
     "sourceUrl": "",
     "year": "2025 Holiday",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-tanzania-2025",
@@ -608,7 +636,8 @@
     "sourceUrl": "",
     "year": "2025 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-brazil-2025",
@@ -629,7 +658,8 @@
     "sourceUrl": "",
     "year": "2025 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "sb-reserve-indonesia-2025",
@@ -650,7 +680,8 @@
     "sourceUrl": "",
     "year": "2025 秋季",
     "image": "",
-    "imageStatus": "pending"
+    "imageStatus": "pending",
+    "officialCatalogUrl": "https://www.starbucks.com.tw/coffee/our-coffees.jspx?cat=bean"
   },
   {
     "id": "ethiopia-yirgacheffe",
