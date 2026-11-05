@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ethiopia-yirgacheffe",
+    "name": "衣索比亞・耶加雪菲",
+    "origin": "衣索比亞",
+    "region": "耶加雪菲",
+    "process": "水洗",
+    "roast": "淺焙",
+    "notes": [
+      "茉莉",
+      "檸檬",
+      "紅茶"
+    ],
+    "description": "清亮的柑橘酸質與花香，尾韻如紅茶。",
+    "brew": "建議水溫 90–92°C，粉水比 1:16。",
+    "example": true
+  },
+  {
+    "id": "kenya-kirinyaga",
+    "name": "肯亞・麒麟雅加",
+    "origin": "肯亞",
+    "region": "麒麟雅加",
+    "process": "水洗",
+    "roast": "淺中焙",
+    "notes": [
+      "黑醋栗",
+      "葡萄柚",
+      "焦糖"
+    ],
+    "description": "鮮明果酸與飽滿口感，適合探索層次變化。",
+    "brew": "建議水溫 91–93°C，粉水比 1:16。",
+    "example": true
+  },
+  {
+    "id": "colombia-huila",
+    "name": "哥倫比亞・薇拉",
+    "origin": "哥倫比亞",
+    "region": "薇拉",
+    "process": "水洗",
+    "roast": "中焙",
+    "notes": [
+      "橙皮",
+      "牛奶巧克力",
+      "堅果"
+    ],
+    "description": "溫和果香與巧克力甜感取得平衡。",
+    "brew": "建議水溫 90–93°C，粉水比 1:15。",
+    "example": true
+  },
+  {
+    "id": "brazil-cerrado",
+    "name": "巴西・喜拉朵",
+    "origin": "巴西",
+    "region": "喜拉朵",
+    "process": "日曬",
+    "roast": "中焙",
+    "notes": [
+      "榛果",
+      "可可",
+      "焦糖"
+    ],
+    "description": "圓潤厚實、酸度柔和，帶有熟悉的堅果甜香。",
+    "brew": "建議水溫 89–92°C，粉水比 1:15。",
+    "example": true
+  },
+  {
+    "id": "guatemala-antigua",
+    "name": "瓜地馬拉・安提瓜",
+    "origin": "瓜地馬拉",
+    "region": "安提瓜",
+    "process": "水洗",
+    "roast": "中深焙",
+    "notes": [
+      "黑巧克力",
+      "香料",
+      "紅蘋果"
+    ],
+    "description": "可可調性與細緻果香交錯，尾韻沉穩。",
+    "brew": "建議水溫 89–91°C，粉水比 1:15。",
+    "example": true
+  },
+  {
+    "id": "sumatra-mandheling",
+    "name": "蘇門答臘・曼特寧",
+    "origin": "印尼",
+    "region": "蘇門答臘",
+    "process": "濕剝法",
+    "roast": "深焙",
+    "notes": [
+      "雪松",
+      "黑巧克力",
+      "草本"
+    ],
+    "description": "低酸度、厚實口感與深色香料氣息。",
+    "brew": "建議水溫 87–90°C，粉水比 1:14。",
+    "example": true
+  }
+]
