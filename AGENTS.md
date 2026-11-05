@@ -35,3 +35,12 @@
 - 首頁、圖鑑、沖煮指南、關於頁面可使用。
 - 咖啡資料能正常載入；搜尋及篩選正常；詳細資訊正確顯示。
 - 新增一筆符合格式的資料後，不需要手動複製卡片 HTML 即可出現。
+
+## Starbucks expansion rules (2026-11)
+- Keep the categories 常態豆, 季節豆, 典藏豆, 示範檔案 distinct.
+- Preserve the original seven example entries and label them 示範檔案.
+- For new Starbucks entries, record the precise year/season when applicable, and provenance (`sourceLabel`, `sourceUrl`). Do not invent country, process, roast or flavor.
+- When information is uncertain, use 待確認, never fill from a different year's release.
+- Use only authentic, redistributable bean-label photographs. Place local images in `images/` and set the `image` path. Never use AI-generated fake packaging or confidential watermarked PPK screenshots as public assets.
+- Update `SOURCES_AND_IMAGES.md` for newly verified official sources and image licenses.
+- Validate `coffees.json` as an array, check `node --check app.js`, and test GitHub Pages filters and details.

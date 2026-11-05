@@ -1,5 +1,658 @@
 [
   {
+    "id": "sb-veranda",
+    "name": "輕柳綜合 Veranda Blend",
+    "category": "常態豆",
+    "origin": "拉丁美洲",
+    "region": "拉丁美洲",
+    "process": "水洗",
+    "roast": "黃金烘焙",
+    "notes": [
+      "焦糖",
+      "檸檬皮"
+    ],
+    "description": "焦糖、檸檬皮的風味印象。",
+    "story": "以柔和、明亮的拉丁美洲風格為主軸，適合想從輕盈口感認識星巴克烘焙的人。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-house",
+    "name": "家常綜合 House Blend",
+    "category": "常態豆",
+    "origin": "拉丁美洲",
+    "region": "拉丁美洲",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "太妃糖",
+      "可可粉"
+    ],
+    "description": "太妃糖、可可粉的風味印象。",
+    "story": "家常綜合以平衡與親切的日常風味為核心，呈現拉丁美洲咖啡的甜感與圓潤口感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-pike",
+    "name": "派克市場 Pike Place Roast",
+    "category": "常態豆",
+    "origin": "拉丁美洲",
+    "region": "拉丁美洲",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "可可",
+      "烘烤核果"
+    ],
+    "description": "可可、烘烤核果的風味印象。",
+    "story": "以星巴克發源地西雅圖派克市場命名，追求適合日常飲用的平衡口感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-guatemala",
+    "name": "瓜地馬拉安提瓜 Guatemala Antigua",
+    "category": "常態豆",
+    "origin": "瓜地馬拉",
+    "region": "瓜地馬拉",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "可可",
+      "烘焙香料"
+    ],
+    "description": "可可、烘焙香料的風味印象。",
+    "story": "安提瓜產區以火山土壤與咖啡種植歷史聞名；這款咖啡呈現可可調性與溫暖香料感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-colombia",
+    "name": "哥倫比亞 Colombia",
+    "category": "常態豆",
+    "origin": "哥倫比亞",
+    "region": "哥倫比亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "平衡",
+      "核果味"
+    ],
+    "description": "平衡、核果味的風味印象。",
+    "story": "以哥倫比亞咖啡的均衡酸質與甜感為主題，適合作為認識拉丁美洲單一產區的起點。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-kenya",
+    "name": "肯亞 Kenya",
+    "category": "常態豆",
+    "origin": "肯亞",
+    "region": "肯亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "黑醋栗",
+      "葡萄柚"
+    ],
+    "description": "黑醋栗、葡萄柚的風味印象。",
+    "story": "肯亞咖啡常以鮮明果酸受到喜愛；這款豆的重點是黑醋栗與葡萄柚般的活潑風味。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-sumatra",
+    "name": "蘇門答臘 Sumatra",
+    "category": "常態豆",
+    "origin": "印尼・蘇門答臘",
+    "region": "印尼・蘇門答臘",
+    "process": "半水洗法",
+    "roast": "深度烘焙",
+    "notes": [
+      "豐富草本",
+      "鄉村香料"
+    ],
+    "description": "豐富草本、鄉村香料的風味印象。",
+    "story": "星巴克自 1971 年起珍視蘇門答臘咖啡。當地特殊的半水洗處理造就厚實醇度與草本、大地氣息。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "星巴克台灣官網",
+    "sourceUrl": "https://www.starbucks.com.tw/coffee/our-coffees/product.jspx?id=152",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-espresso",
+    "name": "濃縮烘焙 Espresso Roast",
+    "category": "常態豆",
+    "origin": "拉丁美洲",
+    "region": "拉丁美洲",
+    "process": "水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "糖蜜",
+      "焦糖"
+    ],
+    "description": "糖蜜、焦糖的風味印象。",
+    "story": "這款經典濃縮烘焙延續星巴克的義式咖啡傳統，以深度烘焙呈現濃郁、焦糖般的甜感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "星巴克台灣官網",
+    "sourceUrl": "https://www.starbucks.com.tw/passport/coffeebeans?product=36",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-verona",
+    "name": "佛羅娜 Caffè Verona",
+    "category": "常態豆",
+    "origin": "綜合產區",
+    "region": "綜合產區",
+    "process": "水洗、半水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "黑可可",
+      "焦糖"
+    ],
+    "description": "黑可可、焦糖的風味印象。",
+    "story": "佛羅娜以深色可可般的濃郁甜苦平衡為特色，適合搭配巧克力類點心。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-italian",
+    "name": "義大利烘焙 Italian Roast",
+    "category": "常態豆",
+    "origin": "綜合產區",
+    "region": "綜合產區",
+    "process": "水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "烘焙味",
+      "煙燻味"
+    ],
+    "description": "烘焙味、煙燻味的風味印象。",
+    "story": "深度烘焙凸顯強烈的烘焙香氣，呈現俐落鮮明的義式風格。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-kati-2026",
+    "name": "Kati Kati Blend 2026",
+    "category": "季節豆",
+    "origin": "東非・衣索比亞與肯亞",
+    "region": "東非・衣索比亞與肯亞",
+    "process": "水洗、日曬",
+    "roast": "黃金烘焙",
+    "notes": [
+      "葡萄柚",
+      "金銀花",
+      "紅色漿果"
+    ],
+    "description": "葡萄柚、金銀花、紅色漿果的風味印象。",
+    "story": "Kati Kati 在斯瓦希里語中帶有「之間」之意，透過東非咖啡的花香與果香，連結咖啡產區與飲用者。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 夏季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-kenya-single-2026",
+    "name": "單一產區肯亞 2026",
+    "category": "季節豆",
+    "origin": "肯亞",
+    "region": "肯亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "黑醋栗",
+      "葡萄柚"
+    ],
+    "description": "黑醋栗、葡萄柚的風味印象。",
+    "story": "肯亞咖啡的鮮明果香，與當地小農及咖啡合作體系的種植文化密切相關。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 夏季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-sejati-2026",
+    "name": "Sejati Blend 2026",
+    "category": "季節豆",
+    "origin": "亞洲太平洋",
+    "region": "亞洲太平洋",
+    "process": "待確認",
+    "roast": "中度烘焙",
+    "notes": [
+      "卡拉曼橘",
+      "白胡椒"
+    ],
+    "description": "卡拉曼橘、白胡椒的風味印象。",
+    "story": "Sejati 綜合將東南亞產區的風味結合，呈現柑橘與白胡椒般的辛香層次。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-1971-2026",
+    "name": "1971 深烘焙 2026",
+    "category": "季節豆",
+    "origin": "哥倫比亞、蘇門答臘、巴西",
+    "region": "哥倫比亞、蘇門答臘、巴西",
+    "process": "待確認",
+    "roast": "深度烘焙",
+    "notes": [
+      "烤糖",
+      "核桃"
+    ],
+    "description": "烤糖、核桃的風味印象。",
+    "story": "以 1971 年星巴克創立年份命名，藉由深度烘焙向品牌的咖啡歷史致意。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-autumn-2026",
+    "name": "秋季綜合 2026",
+    "category": "季節豆",
+    "origin": "拉丁美洲、非洲、亞洲太平洋",
+    "region": "拉丁美洲、非洲、亞洲太平洋",
+    "process": "水洗、半水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "糖漬胡桃",
+      "鼠尾草"
+    ],
+    "description": "糖漬胡桃、鼠尾草的風味印象。",
+    "story": "秋季綜合以豐收季節的溫暖香氣為靈感，融合多產區咖啡的香料與堅果印象。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-2026",
+    "name": "耶誕綜合 2026",
+    "category": "季節豆",
+    "origin": "拉丁美洲、亞洲太平洋",
+    "region": "拉丁美洲、亞洲太平洋",
+    "process": "水洗、半水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "香料巧克力",
+      "雲杉葉尖"
+    ],
+    "description": "香料巧克力、雲杉葉尖的風味印象。",
+    "story": "星巴克的耶誕咖啡傳統始於 1984 年，融合陳年蘇門答臘咖啡，呈現節慶感的香料與可可層次。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-espresso-2026",
+    "name": "耶誕濃縮烘焙 2026",
+    "category": "季節豆",
+    "origin": "拉丁美洲、亞洲太平洋",
+    "region": "拉丁美洲、亞洲太平洋",
+    "process": "水洗、半水洗、日曬",
+    "roast": "深度烘焙",
+    "notes": [
+      "煙燻香草",
+      "糖漬李"
+    ],
+    "description": "煙燻香草、糖漬李的風味印象。",
+    "story": "以節慶濃縮咖啡為發想，強調糖漬李與煙燻香草般的甜香。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-blonde-2026",
+    "name": "耶誕黃金烘焙 2026",
+    "category": "季節豆",
+    "origin": "非洲、亞洲太平洋",
+    "region": "非洲、亞洲太平洋",
+    "process": "水洗、日曬",
+    "roast": "黃金烘焙",
+    "notes": [
+      "香料柳橙",
+      "無花果醬"
+    ],
+    "description": "香料柳橙、無花果醬的風味印象。",
+    "story": "以較輕盈的烘焙方式詮釋節慶咖啡，展現果香與香料交織的明亮感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-2025",
+    "name": "耶誕綜合 2025",
+    "category": "季節豆",
+    "origin": "拉丁美洲、亞洲太平洋",
+    "region": "拉丁美洲、亞洲太平洋",
+    "process": "水洗、半水洗",
+    "roast": "深度烘焙",
+    "notes": [
+      "香料巧克力",
+      "雲杉葉尖"
+    ],
+    "description": "香料巧克力、雲杉葉尖的風味印象。",
+    "story": "2025 年度的耶誕綜合延續品牌節慶咖啡傳統，融入陳年蘇門答臘的深沉風味。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-espresso-2025",
+    "name": "耶誕濃縮烘焙 2025",
+    "category": "季節豆",
+    "origin": "拉丁美洲、亞洲太平洋",
+    "region": "拉丁美洲、亞洲太平洋",
+    "process": "水洗、半水洗、日曬",
+    "roast": "深度烘焙",
+    "notes": [
+      "糖漬李",
+      "煙燻香草"
+    ],
+    "description": "糖漬李、煙燻香草的風味印象。",
+    "story": "節慶濃縮版本以濃郁口感為基礎，呈現糖漬李與煙燻香草的風味印象。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-christmas-blonde-2025",
+    "name": "耶誕黃金烘焙 2025",
+    "category": "季節豆",
+    "origin": "非洲、亞洲太平洋",
+    "region": "非洲、亞洲太平洋",
+    "process": "水洗、日曬",
+    "roast": "黃金烘焙",
+    "notes": [
+      "香料柳橙",
+      "無花果醬"
+    ],
+    "description": "香料柳橙、無花果醬的風味印象。",
+    "story": "用較明亮的果香呈現耶誕氛圍，與深焙耶誕綜合形成不同的節慶風味選擇。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-brazil-sao-joao",
+    "name": "典藏・日曬巴西聖若昂",
+    "category": "典藏豆",
+    "origin": "巴西",
+    "region": "巴西",
+    "process": "日曬",
+    "roast": "中度烘焙",
+    "notes": [
+      "香草",
+      "榛果巧克力"
+    ],
+    "description": "香草、榛果巧克力的風味印象。",
+    "story": "來自巴西聖若昂莊園，透過日曬處理呈現甜美、圓潤的巧克力與堅果調性。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 夏季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-rwanda-abakundakawa",
+    "name": "典藏・盧安達安芭肯達合作社",
+    "category": "典藏豆",
+    "origin": "盧安達",
+    "region": "盧安達",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "柑橘",
+      "檸檬柚子"
+    ],
+    "description": "柑橘、檸檬柚子的風味印象。",
+    "story": "以盧安達咖啡合作社的種植與處理成果為主題，展現乾淨明亮的果香。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 夏季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-tanzania-mondul",
+    "name": "典藏・坦尚尼亞蒙杜爾莊園",
+    "category": "典藏豆",
+    "origin": "坦尚尼亞",
+    "region": "坦尚尼亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "柑橘",
+      "櫻桃"
+    ],
+    "description": "柑橘、櫻桃的風味印象。",
+    "story": "坦尚尼亞蒙杜爾莊園的咖啡以明亮果香與細緻甜感呈現東非風土。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-uganda-elgon",
+    "name": "典藏・烏干達埃爾貢山",
+    "category": "典藏豆",
+    "origin": "烏干達",
+    "region": "烏干達",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "柿子果醬",
+      "香草"
+    ],
+    "description": "柿子果醬、香草的風味印象。",
+    "story": "來自烏干達埃爾貢山產區，以柔和果醬甜感和香草氣息展現高地咖啡特色。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-christmas-2026",
+    "name": "典藏・耶誕綜合 2026",
+    "category": "典藏豆",
+    "origin": "綜合產區",
+    "region": "綜合產區",
+    "process": "水洗、半水洗",
+    "roast": "中深度烘焙",
+    "notes": [
+      "楓糖",
+      "糖漬薑"
+    ],
+    "description": "楓糖、糖漬薑的風味印象。",
+    "story": "以典藏系列的選豆與烘焙概念詮釋節慶，融合溫暖香氣與深沉甜感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-kenya-endebess",
+    "name": "典藏・肯亞恩德貝斯莊園",
+    "category": "典藏豆",
+    "origin": "肯亞",
+    "region": "肯亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "石榴",
+      "柑橘"
+    ],
+    "description": "石榴、柑橘的風味印象。",
+    "story": "以肯亞莊園咖啡的明亮果香為核心，展現細膩酸質與果汁感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2026 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-christmas-2025",
+    "name": "典藏・耶誕綜合 2025",
+    "category": "典藏豆",
+    "origin": "拉丁美洲、亞洲太平洋",
+    "region": "拉丁美洲、亞洲太平洋",
+    "process": "水洗、半水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "木質香氣",
+      "檸檬皮",
+      "楓糖"
+    ],
+    "description": "木質香氣、檸檬皮、楓糖的風味印象。",
+    "story": "2025 典藏耶誕綜合以木質與柑橘香氣營造細緻的節慶層次。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 Holiday",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-tanzania-2025",
+    "name": "典藏・坦尚尼亞蒙杜爾莊園 2025",
+    "category": "典藏豆",
+    "origin": "坦尚尼亞",
+    "region": "坦尚尼亞",
+    "process": "水洗",
+    "roast": "中度烘焙",
+    "notes": [
+      "柑橘",
+      "櫻桃"
+    ],
+    "description": "柑橘、櫻桃的風味印象。",
+    "story": "以蒙杜爾莊園的東非產區特色呈現明亮的果香與乾淨口感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-brazil-2025",
+    "name": "典藏・日曬巴西綠河莊園黃波旁",
+    "category": "典藏豆",
+    "origin": "巴西",
+    "region": "巴西",
+    "process": "日曬",
+    "roast": "中度烘焙",
+    "notes": [
+      "香草",
+      "可可"
+    ],
+    "description": "香草、可可的風味印象。",
+    "story": "日曬處理與黃波旁品種共同呈現巴西咖啡的柔和甜感。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sb-reserve-indonesia-2025",
+    "name": "典藏・日曬印尼西爪哇佳木瓦",
+    "category": "典藏豆",
+    "origin": "印尼",
+    "region": "印尼",
+    "process": "日曬",
+    "roast": "中度烘焙",
+    "notes": [
+      "熱帶水果",
+      "甜香"
+    ],
+    "description": "熱帶水果、甜香的風味印象。",
+    "story": "以印尼日曬處理呈現更鮮明的果香面向，與常見的蘇門答臘半水洗咖啡形成對照。",
+    "brew": "依實際豆況調整；可先以手沖粉水比 1:15–1:16 試沖。此為一般建議，非官方指定配方。",
+    "sourceLabel": "你提供的 PPK 截圖",
+    "sourceUrl": "",
+    "year": "2025 秋季",
+    "image": "",
+    "imageStatus": "pending"
+  },
+  {
     "id": "ethiopia-yirgacheffe",
     "name": "衣索比亞・耶加雪菲",
     "origin": "衣索比亞",
@@ -13,7 +666,13 @@
     ],
     "description": "清亮的柑橘酸質與花香，尾韻如紅茶。",
     "brew": "建議水溫 90–92°C，粉水比 1:16。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "kenya-kirinyaga",
@@ -29,7 +688,13 @@
     ],
     "description": "鮮明果酸與飽滿口感，適合探索層次變化。",
     "brew": "建議水溫 91–93°C，粉水比 1:16。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "colombia-huila",
@@ -45,7 +710,13 @@
     ],
     "description": "溫和果香與巧克力甜感取得平衡。",
     "brew": "建議水溫 90–93°C，粉水比 1:15。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "brazil-cerrado",
@@ -61,7 +732,13 @@
     ],
     "description": "圓潤厚實、酸度柔和，帶有熟悉的堅果甜香。",
     "brew": "建議水溫 89–92°C，粉水比 1:15。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "guatemala-antigua",
@@ -77,7 +754,13 @@
     ],
     "description": "可可調性與細緻果香交錯，尾韻沉穩。",
     "brew": "建議水溫 89–91°C，粉水比 1:15。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "sumatra-mandheling",
@@ -93,7 +776,13 @@
     ],
     "description": "低酸度、厚實口感與深色香料氣息。",
     "brew": "建議水溫 87–90°C，粉水比 1:14。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   },
   {
     "id": "ethiopia-guji-natural",
@@ -109,6 +798,12 @@
     ],
     "description": "以莓果香氣與柔和花香為靈感的示範風味檔案；實際風味依批次而異。",
     "brew": "示範沖煮建議：水溫 90–92°C，粉水比 1:16；可依實際豆況調整。",
-    "example": true
+    "example": true,
+    "category": "示範檔案",
+    "story": "此筆為原網站的教學示範檔案，並非星巴克產品或特定批次的官方資料。",
+    "sourceLabel": "原網站示範資料",
+    "sourceUrl": "",
+    "image": "",
+    "imageStatus": "none"
   }
 ]
